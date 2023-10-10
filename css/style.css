@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(225, 226, 228);
+}
+.items2{
+    
+   
+      
+    width: fit-content;
+    margin:auto;
+}
+.card{
+    background-color: white;
+width: 300px;
+display: inline-block;
+margin:50px 30px;
+padding: 20px;
+border-radius: 20px;
+}
+.card a{
+color: black;
+text-decoration: none;
+}
+.category{
+    background-color: white;
+    width: 100px;
+    display: inline-block;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.category a{
+    color: black;
+text-decoration: none;
+
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+.category img{
+    margin-left: 25px;
+    margin-right: auto;
+    
+}
+.items1{
+  width: fit-content;
+    margin:auto;
+}
+.price{
+   color: red;
+}
+.product{
+    text-align: center;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card img{
+    margin-left: 45px;
+    
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.items3{
+    width: fit-content;
+      margin:auto;
+  }
+  .course{
+    background-color: white;
+width: 350px;
+display: inline-block;
+margin:10px;
+
+
+
+border-radius: 20px;
+}
+.course a{
+    color: orangered;
+text-decoration: none;
+margin-left: 20px;   
+
+font-family: Arial, Helvetica, sans-serif;
+}
+.course span
+{
+color: black; 
+margin-left: 20px;   
+}
+.course img{
+    width: 100%;
+border-radius: 20px;
+}
+.fee{
+margin-left: 20px;
+}
+
+
